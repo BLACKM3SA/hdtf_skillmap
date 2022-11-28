@@ -3,6 +3,6 @@
 *.prt
 *.log
 *.vmx
-*..lin
+*.lin
 *.mdmp
 *.bat
